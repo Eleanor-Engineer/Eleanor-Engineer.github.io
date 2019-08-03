@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Hanalei', cursive;
+    color: lightseagreen 
+    line-height: 1.2em;
+    padding: 20px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+p1{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+}
+
+
+
+
+div{
+    display: block;
+    padding:40px;
+    background-color:#dddddd;
+
+  }
+
+
+ /* This is some notes form the tutorial here https://codepen.io/jominney/pen/LKwJKN?editors=1100 */
+  .header{background-color:#dddddd;}
+.inner-content{background-color:#f0f0f0;}
+.footer{background-color:#dddddd;}
